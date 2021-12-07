@@ -1,0 +1,9 @@
+.col1 {
+-webkit-column-width: 300px;
+    -webkit-column-height: 300px;    
+    height: 300px;
+    width:300px;
+    float:left;
+    -webkit-column-gap:0px;
+    overflow:hidden;
+}
